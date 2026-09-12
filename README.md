@@ -4,6 +4,9 @@ Stack Operation Center is a beta desktop application designed for developers, op
 
 The app combines a polished desktop experience with practical operational tools so teams can move from observation to action without switching between multiple apps.
 
+
+![Dashboard view](images/dashboard.png)
+
 ## Why this project exists
 
 Modern development and DevOps work often involves juggling many moving parts:
@@ -30,8 +33,6 @@ Stack Operation Center brings these elements together in one place, with a clean
 ## Screenshots
 
 The screenshots below are stored in the images folder and reflect the current beta experience of the application. (Images created by AI for show final looks of app)
-
-![Dashboard view](images/dashboard.png)
 
 ![Monitor view](images/monitor.png)
 
